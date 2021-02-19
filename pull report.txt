@@ -1,0 +1,7 @@
+
+
+pull request tells other about  changing you have pushed to repository on github 
+
+after you pull request you can discuss and review propably changing with team 
+ 
+and add commits before changes are merged into the base branch
